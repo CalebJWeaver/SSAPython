@@ -1,0 +1,15 @@
+Q. What is this and why did you make it
+A. This is a program to perform SSA analysis on a dataset. I created it as part of the FUTURE Sensors REU at Louisiana Tech University under NSF Grant 2217824 with the guidance of Dr. Xiyuan Liu.
+
+Q. Will you update this code if XYZ
+A. If I get time during the school year then yes, but this is not a priority
+
+Q. Would you be willing/able to port this to work in other languages
+A. ... I barely understand Python
+
+Q. Why did you use Google Collab 
+A. My laptop is very cheap, and Google Collab worked great for what I needed to do.
+
+Q. What are the limitations of SSA 
+A. SSA is meant for time series datasets. While it can work with other dependent data sets, it CANNOT be used for datasets with 2 independent variables. 
+
