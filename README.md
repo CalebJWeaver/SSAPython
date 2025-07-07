@@ -5,4 +5,4 @@ INSTRUCTIONS FOR USING SSA PROGRAM
 Note: "objective" methods exist for this process, but I chose not to use them for this project because I found them to still require user intervention and more trouble than they are worth.
 4. Run the rest of the code as normal. You will most likely need to play around with the value of L a few times.
    
-If you use any of the results from this analysis, please credit me as described in the License page :)
+If you use any of the results from this analysis, please credit me :)
